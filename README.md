@@ -1,4 +1,4 @@
-# Image Recognition — Streamlit App Guide
+# Vision Ai - Image Recognition 
 
 This turns your MobileNetV2 image classifier into a two-screen web app:
 
